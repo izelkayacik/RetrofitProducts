@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView android:elevation="5dp"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="5dp"
+    android:padding="7dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imgProduct"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:id="@+id/txtProductName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/titillium_web_bold"
+            android:text="Nike Pegasus 37 EU291"
+            android:textColor="#000000" />
+
+
+        <TextView
+            android:id="@+id/txtProductPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/titillium_web_bold"
+            android:text="40 tl"
+            android:textSize="20dp"
+            android:textColor="#2D9CDB" />
+
+
+        <TextView
+            android:id="@+id/txtProductPriceOld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/titillium_web_light"
+            android:text="35 tl"
+            android:textColor="#8D8D8D"
+            android:textSize="17dp"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/drawable/categories_btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/drawable/girisyap_btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/drawable/login_btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/activity_product_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/bottom_bar.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/fragment_home.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/fragment_ticketragment.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/fragment_user.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/login_screen.xml" value="0.4" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/product_item_view.xml" value="0.264" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/product_list.xml" value="0.1" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/layout/search_view.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/HizliGeliyoTest/app/src/main/res/menu/nav_menu.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
